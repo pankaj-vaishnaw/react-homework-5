@@ -1,0 +1,15 @@
+.quotes-div{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotes-div figure{
+  width: 400px;
+  background-color: aliceblue;
+  margin: 10px;
+  height: 300px;
+  border-radius: 10px;
+}
